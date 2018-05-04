@@ -1,0 +1,11 @@
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\bin\Debug\GemDB.exe.config
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\bin\Debug\GemDB.exe
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\bin\Debug\GemDB.pdb
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.Properties.Resources.resources
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.csproj.GenerateResource.Cache
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.csproj.CoreCompileInputs.cache
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.exe
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.pdb
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\bin\Debug\Bogus.dll
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\bin\Debug\Bogus.xml
+C:\Users\Lwin Moe\Desktop\GemDB\GemDB\obj\Debug\GemDB.csprojResolveAssemblyReference.cache
