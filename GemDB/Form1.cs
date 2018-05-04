@@ -154,23 +154,23 @@ namespace GemDB
             result = result + value;
         }
 
-        private void D()
-        {
-            string value = string.Empty;
-            for (int i = 0; i <= 10000; i++)
-            {
-                DateTime dt = DateTime.Now;
-                int ti= 0;
-                if (dt.Millisecond % 2 == 0)
-                    ti = 0;
-                else
-                    ti = 1;
+        //private void D()
+        //{
+        //    string value = string.Empty;
+        //    for (int i = 0; i <= 10000; i++)
+        //    {
+        //        DateTime dt = DateTime.Now;
+        //        int ti= 0;
+        //        if (dt.Millisecond % 2 == 0)
+        //            ti = 0;
+        //        else
+        //            ti = 1;
                 
-                value += "Insert into General(Bit) Values " +
-                    "(" + ti + ")" + Environment.NewLine;
-            }
-            result = result + value;
-        }
+        //        value += "Insert into General(Bit) Values " +
+        //            "(" + ti + ")" + Environment.NewLine;
+        //    }
+        //    result = result + value;
+        //}
 
     }
 }
